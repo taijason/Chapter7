@@ -1,0 +1,14 @@
+C:\Users\taivi\source\repos\Chapter7\Chapter7\bin\Debug\net6.0\Chapter7.exe
+C:\Users\taivi\source\repos\Chapter7\Chapter7\bin\Debug\net6.0\Chapter7.deps.json
+C:\Users\taivi\source\repos\Chapter7\Chapter7\bin\Debug\net6.0\Chapter7.runtimeconfig.json
+C:\Users\taivi\source\repos\Chapter7\Chapter7\bin\Debug\net6.0\Chapter7.dll
+C:\Users\taivi\source\repos\Chapter7\Chapter7\bin\Debug\net6.0\Chapter7.pdb
+C:\Users\taivi\source\repos\Chapter7\Chapter7\obj\Debug\net6.0\Chapter7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taivi\source\repos\Chapter7\Chapter7\obj\Debug\net6.0\Chapter7.AssemblyInfoInputs.cache
+C:\Users\taivi\source\repos\Chapter7\Chapter7\obj\Debug\net6.0\Chapter7.AssemblyInfo.cs
+C:\Users\taivi\source\repos\Chapter7\Chapter7\obj\Debug\net6.0\Chapter7.csproj.CoreCompileInputs.cache
+C:\Users\taivi\source\repos\Chapter7\Chapter7\obj\Debug\net6.0\Chapter7.dll
+C:\Users\taivi\source\repos\Chapter7\Chapter7\obj\Debug\net6.0\refint\Chapter7.dll
+C:\Users\taivi\source\repos\Chapter7\Chapter7\obj\Debug\net6.0\Chapter7.pdb
+C:\Users\taivi\source\repos\Chapter7\Chapter7\obj\Debug\net6.0\Chapter7.genruntimeconfig.cache
+C:\Users\taivi\source\repos\Chapter7\Chapter7\obj\Debug\net6.0\ref\Chapter7.dll
